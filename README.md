@@ -1,3 +1,5 @@
+Student Note: I am unable to add folders such as ".next" and "node_modules" but I believe the nessecary files are there.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
