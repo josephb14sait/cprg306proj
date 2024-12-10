@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "CEOtaku 2024",
+        "date": "Oct 13, 2025",
+        "game": "Street Fighter 6",
+        "location": "Orlando, FL",
+        "attendees": "100",
+        "photoUrl": "https://ceogaming.org/wp-content/uploads/2023/05/ceotaku_finalmerged2-Dark-Edit.png"
+    },
+    {
+        "id": 2,
+        "name": "Frosty Faustings",
+        "date": "Dec 13, 2025",
+        "game": "Tekken 8",
+        "location": "Online",
+        "attendees": "102",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1555276418430517249/2y26rVGu_400x400.jpg"
+    },
+    {
+        "id": 3,
+        "name": "EVO",
+        "date": "June 13, 2025",
+        "game": "Guilty Gear: Strive",
+        "location": "Calgary, AB",
+        "attendees": "101",
+        "photoUrl": "https://blog.playstation.com/tachyon/2023/07/379b03d63fbf54d74cfaa08c2ed7b05a1554cf01-scaled.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Tampa Never Sleeps",
+        "date": "Jan 13, 2025",
+        "game": "BlazBlue: Central Fiction",
+        "location": "Ohio, OR",
+        "attendees": "103",
+        "photoUrl": "https://tns.gg/wp-content/uploads/2023/12/43GuideSTART-GG-header-copy-copy.png"
+    }
+]
