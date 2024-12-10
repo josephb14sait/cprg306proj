@@ -45,7 +45,7 @@ export default function EventForm({addNewEventFunc, closeFormFunc}) {
             <form
                 onSubmit={handleSubmit}
                 onClick={ (event) => event.stopPropagation() }
-                className="max-w-md p-5 rounded-lg bg-green-300 text-black"
+                className="max-w-md p-5 bg-blue-300 text-black"
             >
                 <h2 className="text-2xl text-center mb-2">Add new event to host</h2>
                 <div className="mb-2">

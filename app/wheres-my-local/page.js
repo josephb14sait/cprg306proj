@@ -28,11 +28,11 @@ export default function HostingPage(){
     return(
         <main>
             { formOpen && <EventForm addNewEventFunc={addNewEvent} closeFormFunc={closeForm} />}
-            <div className="w-8 h-8 rounded-full overflow-hidden absolute right-10 top-6">
+            <div className="w-8 h-8 overflow-hidden absolute right-10 bottom-6">
                 <button
                     type="button"
                     onClick={openForm}
-                    className="bg-blue-700 text-white text-3xl w-full h-full leading-none relative"
+                    className="bg-green-700 text-white text-3xl w-full h-full leading-none relative"
                 >+</button>
             </div>
             <EventList listOfEventsArray={listOfEvents} removeEventFunc={removeEvent} />
